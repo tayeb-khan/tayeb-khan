@@ -9,11 +9,11 @@
 <!--     <p align="center"> -->
 <!--         <ul>    -->
 <!--           <img src="https://github.com/tayeb320/tayeb320/blob/main/images/1.jpeg" /> -->
-<!--           <h1 align="center">Hi 👋, I'm Zahid Hassan Shaikot </h1> -->
+<!--           <h1 align="center">Hi 👋, I'm Mr. Khan </h1> -->
 <!--           <h1 align="center">Web Developer</h1> -->
 <!--           <li> I’m interested in Web Application Development.</li> -->
 <!--           <li> I’m currently Working with PHP Laravel.</li> -->
-<!--           <li> I’m currently learning more about Dart</li> -->
+<!--           <li> I’m currently learning VUE3</li> -->
 <!--         </ul> -->
 <!--       </p>	 -->
 <!--       <img src="https://raw.githubusercontent.com/fredgrott/FredGrott/gh-pages/waves.svg" width="100%" height="150"> -->
@@ -22,13 +22,13 @@
       </div> 
     <p align="center">
        <a href="https://www.linkedin.com/in/tayeb-khan-ba4b91117" target=”_blank”>
-        <img align="center" alt="Nahid's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
+        <img align="center" alt="Khan's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
         </a> 
         <a href="https://twitter.com/tayeb_320" target=”_blank”>
-            <img align="center" alt="Shaikot's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" /> &nbsp; &nbsp;
+            <img align="center" alt="Khan's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" /> &nbsp; &nbsp;
         </a>
         <a href="https://www.facebook.com/tayeb320" target=”_blank”>
-                <img align="center" alt="Nahid's Facebook" width="30px" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" /> &nbsp; &nbsp;
+                <img align="center" alt="Khan's Facebook" width="30px" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" /> &nbsp; &nbsp;
         </a>
         <br/>
         <br/> -->
@@ -48,7 +48,7 @@
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
     <a href="https://github.com/tayeb320/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=**tayeb320**&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&count_private=true&include_all_commits=true" />
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayeb320&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&count_private=true&include_all_commits=true" />
     </a>
   </div>
   <br>
