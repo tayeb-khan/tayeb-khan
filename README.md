@@ -20,6 +20,7 @@
 <!--       <div align="center">
         <h3 align="center">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
       </div> 
+-->
     <p align="center">
        <a href="https://www.linkedin.com/in/tayeb-khan-ba4b91117" target=”_blank”>
         <img align="center" alt="Khan's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
@@ -31,7 +32,7 @@
                 <img align="center" alt="Khan's Facebook" width="30px" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" /> &nbsp; &nbsp;
         </a>
         <br/>
-        <br/> -->
+        <br/> 
         
 
 <!-- <h2 align="center">⚡ Stats ⚡</h2> -->
