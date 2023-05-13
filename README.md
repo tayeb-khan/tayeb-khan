@@ -34,7 +34,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/tayeb-khan"><img src="https://img.shields.io/badge/-Tayeb%20Khan%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:tayeb.khan320@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.facebook.com/tayeb-khan"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.facebook.com/tayeb320"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 <a href="https://stackoverflow.com/users/13446763/tayeb320"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat&&logo=stack-overflow&logoColor=white"/></a>
 </p>
 
