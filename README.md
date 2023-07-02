@@ -22,13 +22,6 @@
 <br> <br>
 
 <hr>
-
-</p>
-  <p align="center"> 
-  <b>Visitor count</b><br>
-  <img src="https://profile-counter.glitch.me/tayeb-khan/count.svg" />
-</p>
-
 <p align="center">
 <a href="https://www.linkedin.com/in/tayeb-khan"><img src="https://img.shields.io/badge/-Tayeb%20Khan%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:tayeb.khan320@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
