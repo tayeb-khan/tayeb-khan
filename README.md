@@ -15,7 +15,7 @@
 
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tayeb-khan&theme=dark&hide_border=true"/>
-  <img height="auto" width="150" style="margin-top:20; margin-left:20" src="https://www.pngmart.com/files/4/Coder-PNG-HD.png">
+  <img height="auto" width="150" style="margin-top:20; margin-left:20" src="https://github.com/tayeb-khan/tayeb-khan/assets/55124227/4b6568d3-99b9-482b-9c02-afb35dd57955">
 </p>
 
 <br>
