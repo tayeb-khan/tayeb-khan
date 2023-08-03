@@ -9,7 +9,7 @@
 
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tayeb-khan&theme=dark&hide_border=true"/>
-  <img height="auto" width="150" src="https://www.pngmart.com/files/4/Coder-PNG-HD.png">
+  <img height="auto" width="150" style="margin-top:20px; margin-left:20px" src="https://www.pngmart.com/files/4/Coder-PNG-HD.png">
 </p>
 
 <br>
