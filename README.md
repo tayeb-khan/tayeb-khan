@@ -7,10 +7,9 @@
 </head>
 <body>
 
-<p align=center>
-  <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&width=435&height=100&lines=Hi%2C+This+is+Tayeb+Khan;Laravel+Vue+React+Developer" alt="Typing SVG" /></a>
-  </div>
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tayeb-khan&theme=dark&hide_border=true"/>
+  <img height="150" width="150" src="https://www.pngmart.com/files/4/Coder-PNG-HD.png">
 </p>
 
 <br>
