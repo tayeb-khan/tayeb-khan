@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tayeb-khan" alt="tayeb-khan" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/tayeb320" target="blank"><img src="https://img.shields.io/twitter/follow/tayeb320?logo=twitter&style=for-the-badge" alt="tayeb320" /></a> </p>
+<p align="left"> <a href="https://twitter.com/iftakhar_tayef" target="blank"><img src="https://img.shields.io/twitter/follow/iftakhar_tayef?logo=twitter&style=for-the-badge" alt="iftakhar_tayef" /></a> </p>
 
 - 🔭 I’m currently working on **a SAAS Project**
 
@@ -23,7 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/tayeb320" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tayeb320" height="30" width="40" /></a>
+<a href="https://twitter.com/iftakhar_tayef" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iftakhar_tayef" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/tayeb-khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tayeb-khan" height="30" width="40" /></a>
 <a href="https://fb.com/tayeb320" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tayeb320" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/tayeb-khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tayeb-khan" height="30" width="40" /></a>
